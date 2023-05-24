@@ -1,0 +1,36 @@
+.one_div{
+    background-image: url('../img/img_1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 800px;
+    position: relative;
+}
+.one_div .menu{
+    background: none !important;
+}
+
+.one_div .header{
+    width: 100%;
+    position: absolute;
+    bottom: 90px;
+}
+.four_div .icon_5{
+    font-size: 48px;
+    margin-top: 30px;
+}
+.four_div{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.five_div{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.five_div .icons_arrow{
+    text-align: right;
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+.six_div .icons_10{
+    font-size: 30px;
+}
